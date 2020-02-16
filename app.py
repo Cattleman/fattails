@@ -27,7 +27,7 @@ def main():
         st.markdown("**Disclaimer:** This site is not affiliated with N.N. Taleb - just big fans.")
         st.markdown("**Find an error? Have a suggestion?**" )  
         st.markdown("Let me know: <ian.hensel@fattails.io> , <https://twitter.com/IanHensel>")
-        st.markdown("Contribute: <>")
+        st.markdown("Contribute: <https://github.com/Cattleman/fattails>")
 
     if page == "Distributions":
         st.subheader("Distributions")
